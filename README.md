@@ -2,7 +2,7 @@
 Program in py for scrap guild, user and inviter information.
 
 # 📓 Usage
-For the user scrapper, you need to be friend with the target. (Sometimes even if you are friend with the user that don't work, it's the Discord API Limit)
+For the user scrapper, you need to be friend with the target. (Sometimes even if you are friend with the user that doesn't work, it's the Discord API Limit)
 For the user scrapper, you need to enter a token into the `token.txt` file.
 
 # 🎥 Guild Scrapper Demo
